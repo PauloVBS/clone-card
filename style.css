@@ -1,0 +1,46 @@
+body{
+    font-family: 'LuzSans-Book';
+    background-color:#0D192B
+    
+}
+section{
+    border-radius: 15px;
+    padding: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 300px;
+    background-color:#14253D ;
+        
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    
+}
+div#imagem{
+
+    text-align: center;
+}
+
+
+h1{
+    color: white;
+}
+
+div#textopequeno{
+    color: #8BACDA;
+
+}
+div#codigo{
+    color: #00FFF7;
+    text-align: left;
+}
+div#tempo{
+text-align: right;
+}
+div#creation{
+    color: #8BACDA
+}
