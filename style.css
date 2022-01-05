@@ -1,0 +1,56 @@
+body{
+    font-family: 'LuzSans-Book';
+    background-color:#0D192B
+    
+}
+section{
+    border-radius: 15px;
+    padding: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    width: 250px;
+    background-color:#14253D ;
+        
+}
+img{
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+div#imagem{
+    width: 250px;
+    text-align: center;
+}
+
+
+h1{
+    color: white;
+}
+
+div#textopequeno{
+    color: #8BACDA;
+
+}
+div#codigo{
+    color: #00FFF7;
+    text-align: left;
+}
+div#tempo{
+text-align: right;
+color: #8BACDA;
+}
+div#creation{
+    color: #8BACDA
+}
+.dados{
+    display:  grid;
+    grid-template-columns: 50% 50%;
+}
+.atribution{
+    display:grid;
+    grid-template-columns: 50% 50%;
+    text-align: left;
+}
